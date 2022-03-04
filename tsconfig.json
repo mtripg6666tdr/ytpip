@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "allowJs": false,
+    "esModuleInterop": true,
+    "noImplicitThis": true,
+    "noImplicitOverride": true,
+    "target": "ES2019",
+    "module": "CommonJS",
+    "inlineSourceMap": true
+  }
+}
